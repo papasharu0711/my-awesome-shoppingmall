@@ -1,0 +1,12 @@
+# Color Palette Library
+
+웹 기반 컬러 팔레트 관리 시스템
+
+## 로컬 실행
+
+```bash
+npm install
+npm run dev
+```
+
+http://localhost:3000 접속
